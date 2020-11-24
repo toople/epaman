@@ -37,10 +37,12 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-pen:before { content: "\f100"; }
-.flaticon-speaker:before { content: "\f101"; }
+    .flaticon-pen:before   { content: "\f100"; }
+.flaticon-speaker:before   { content: "\f101"; }
 .flaticon-portfolio:before { content: "\f102"; }
+.flaticon-hand-paper:before   { content: "\f256"; }
     
     $font-Flaticon-pen: "\f100";
     $font-Flaticon-speaker: "\f101";
     $font-Flaticon-portfolio: "\f102";
+    $font-Flaticon-hand-paper: "\f256";
